@@ -12,6 +12,31 @@ cd Win-RDP
 
 ---
 
+## 📌 Update Packages Using These Commands:
+Click on the copy button to copy each command! ⬇️
+
+```
+sudo su
+```
+
+```
+sudo apt update
+```
+
+```
+sudo apt install docker.io docker-compose -y
+```
+
+```
+docker
+```
+
+```
+pwd
+```
+
+---
+
 ## 🚀 Start RDP Container
 
 ### ▶️ For Windows 10
